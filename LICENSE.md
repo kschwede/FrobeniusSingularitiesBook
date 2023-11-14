@@ -1,1 +1,1 @@
-This document and any included latex source code is the intellectual property of Karl E. Schwede and Karen E. Smith.  We welcome feedback, questions and comments.
+This document and any included latex source code is the intellectual property of Karl E. Schwede and Karen E. Smith.  We welcome feedback, questions and comments.  You may link to this github page, but you are not given permission to redistrubte this work.
